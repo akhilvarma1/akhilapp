@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/akhilapp/static/css/main.4def6aed.chunk.css",
+    "main.js": "/akhilapp/static/js/main.f3677dc7.chunk.js",
+    "main.js.map": "/akhilapp/static/js/main.f3677dc7.chunk.js.map",
+    "runtime-main.js": "/akhilapp/static/js/runtime-main.bb9b9630.js",
+    "runtime-main.js.map": "/akhilapp/static/js/runtime-main.bb9b9630.js.map",
+    "static/js/2.53bbfdcd.chunk.js": "/akhilapp/static/js/2.53bbfdcd.chunk.js",
+    "static/js/2.53bbfdcd.chunk.js.map": "/akhilapp/static/js/2.53bbfdcd.chunk.js.map",
+    "index.html": "/akhilapp/index.html",
+    "static/css/main.4def6aed.chunk.css.map": "/akhilapp/static/css/main.4def6aed.chunk.css.map",
+    "static/js/2.53bbfdcd.chunk.js.LICENSE.txt": "/akhilapp/static/js/2.53bbfdcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb9b9630.js",
+    "static/js/2.53bbfdcd.chunk.js",
+    "static/css/main.4def6aed.chunk.css",
+    "static/js/main.f3677dc7.chunk.js"
+  ]
+}
